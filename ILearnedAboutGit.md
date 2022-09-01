@@ -1,17 +1,19 @@
-# Lo que yo aprendí de Git/GitHub
+# What I learned about Git/GitHub
 
-Aprendí varias cosas sobre Git/GitHub que no conocía, aunque anteriormente ya había trabajado con Git haciendo lo siguiente:
-- yo usé repositorios en GitHub
-- yo usé repositorios en GitLab
-- yo cloné repositorios
-- yo hice commits
-- yo usé ramas
-- yo fusioné ramas
+I learned several things about Git/GitHub that I didn't know, although I had previously worked with Git doing the following:
+- I used repositories in GitHub
+- I used repositories on GitLab
+- I cloned repositories
+- I did commits
+- I used branches
+- I merged branches
 
-Pero gracias a este texto pude aprender y reforzar conocimientos sobre:
+But thanks to this text I was able to learn and reinforce knowledge about:
 - Forks
 - Pull requests
 - Issues
-- Documentación de markdon files
+- Documentation of markdon files
 
-A futuro me gustaría seguir practicando los conocimientos que aprendí gracias a este documento.
+In the future I would like to continue practicing the knowledge I learned thanks to this document.
+
+So far what I have liked most about the course is learning about GitHub because it is something that I can apply in any subject and in my life as a programmer.
